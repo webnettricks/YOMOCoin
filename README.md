@@ -1,0 +1,2 @@
+# YOMOCoin
+Yomo Coupon Coin
